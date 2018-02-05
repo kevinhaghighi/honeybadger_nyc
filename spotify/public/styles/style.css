@@ -1,0 +1,19 @@
+body {
+    margin: 10px; 
+}
+
+h1 {
+    font-size: 50px;
+    color: green;
+    width: 600px;
+    background-color: black;
+}
+
+h2 {
+    font-size: 30px;
+    color: black;
+}
+div {
+    border: 5px dotted grey;
+    width: 600px;
+}
